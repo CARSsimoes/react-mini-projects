@@ -1,0 +1,14 @@
+.app-header__container {
+  display: flex;
+  justify-content: space-between; /* Distribute space evenly */
+}
+
+.column {
+  width: 10%;
+  text-align: left;
+}
+
+.double-column {
+  width: 30%;
+  text-align: left;
+}
