@@ -1,2 +1,8 @@
 # react-mini-projects
-Created with CodeSandbox
+
+One little app by route:
+ - Counter
+ - Random User API
+ - Todo List
+ - Wordle
+ - Space API 
